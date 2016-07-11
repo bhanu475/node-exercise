@@ -4,9 +4,10 @@
   "description": "A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)",
   "main": "server.js",
   "dependencies": {
+    "ejs": "^2.4.1",
     "express": "^4.14.0",
     "express-paginate": "^0.2.0",
-    "request":"*"
+    "request": "*"
   },
   "devDependencies": {},
   "scripts": {
